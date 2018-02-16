@@ -1,0 +1,24 @@
+* {
+  text-align: center;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: Bold;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weigt: Bold;
+}
+
+p {
+  font-size: 14px;
+}
